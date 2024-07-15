@@ -2,7 +2,7 @@
 - 👀 I’m interested in front end development
 - 🌱 I’m currently completed course in Besant technology
 - 💞️ I’m looking for a entry level. job in front end development
-- 📫 How to reach me keerthanaravishankar096@gmail.com.
+- 📫 How to reach me keerthanaravi075@gmail.com
 - 😎 I have working on projects in reactjs with js html and css
       yet I completed, profile card, food cart app, crup operations. 
 
