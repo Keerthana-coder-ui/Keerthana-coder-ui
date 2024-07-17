@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Hamburger",
+    "pic": "https://heygrillhey.com/wp-content/uploads/2018/05/Smoked-Hamburgers-Feature.png",
+    "shop":"MC Donald's",
+    "foodtype": "Fast Food",
+    "price": 130
+  },
+  {
+    "id": 2,
+    "name": "Pizza",
+    "pic": "https://cdn.loveandlemons.com/wp-content/uploads/2023/02/vegetarian-pizza-500x500.jpg",
+    "shop":"Dominos",
+    "foodtype": "Italian",
+    "price": 350
+  },
+  {
+    "id": 3,
+    "name": "Sushi",
+    "pic": "https://www.happyfoodstube.com/wp-content/uploads/2016/03/homemade-sushi-image-500x500.jpg",
+    "shop":"kimling",
+    "foodtype": "Japanese",
+    "price": 300
+  },
+  {
+    "id": 4,
+    "name": "Taco",
+    "pic": "https://thecozycook.com/wp-content/uploads/2021/06/Baked-Tacos-f.jpg",
+    "shop":"Zaitoon",
+    "foodtype": "Mexican",
+    "price": 100
+  },
+  {
+    "id": 5,
+    "name": "Pasta",
+    "pic": "https://www.budgetbytes.com/wp-content/uploads/2013/07/Creamy-Spinach-Tomato-Pasta-bowl-500x500.jpg",
+    "shop":"wongskitchen",
+    "foodtype": "Italian",
+    "price": 120
+  },
+  {
+    "id": 6,
+    "name": "Salad",
+    "pic": "https://www.twopeasandtheirpod.com/wp-content/uploads/2023/03/Butter-Lettuce-Salad-10-500x500.jpg",
+    "shop":"organic eats",
+    "foodtype": "Healthy",
+    "price": 90
+  },
+  {
+    "id": 7,
+    "name": "Sushi Roll",
+    "pic": "https://img.freepik.com/premium-photo/portion-uncut-cucumber-maki-sushi-rolls_219193-10341.jpg",
+    "shop":"kimling",
+    "foodtype": "Japanese",
+    "price": 250
+  },
+  {
+    "id": 8,
+    "name": "Burrito",
+    "pic": "https://www.jocooks.com/wp-content/uploads/2012/10/chicken-burritos-1-18-500x500.jpg",
+    "shop":"marinafoods",
+    "foodtype": "Mexican",
+    "price":400
+  },
+  {
+    "id": 9,
+    "name": "Chicken Wings",
+    "pic": "https://www.licious.in/blog/wp-content/uploads/2020/12/Fried-Chicken-Wing-600x600.jpg",
+    "shop":"wongskitchen",
+    "foodtype": "Appetizer",
+    "price": 150
+  },
+  {
+    "id": 10,
+    "name": "Steak",
+    "pic":"https://i.pinimg.com/736x/47/3b/35/473b35f45db13da6f34013b95e2006ee.jpg",
+    "shop":"buhari",
+    "foodtype": "Main Course",
+    "price": 500
+  },
+  {
+    "id": 11,
+    "name": "Fries",
+    "pic": "https://eadn-wc02-12309146.nxedge.io/wp-content/uploads/2022/09/How-to-Make-French-Fries-500x500.jpg",
+    "shop":"chatbox",
+    "foodtype": "Side Dish",
+    "price": 80
+  },
+  {
+    "id": 12,
+    "name": "Smoothie",
+    "pic": "https://cdn.loveandlemons.com/wp-content/uploads/2023/07/coffee-smoothie-500x500.jpg",
+    "shop":"Havmor",
+    "foodtype": "Beverage",
+    "price": 230
+  },
+  {
+    "id": 13,
+    "name": "Donut",
+    "pic": "https://www.bostongirlbakes.com/wp-content/uploads/2021/09/IMG_4423-500x500.jpg",
+    "shop":"FB Bakes",
+    "foodtype": "Dessert",
+    "price": 100
+  },
+  {
+    "id": 14,
+    "name": "Bagel",
+    "pic": "https://sugargeekshow.com/wp-content/uploads/2020/03/easy-bagel-recipe-featured-500x500.jpg",
+    "shop":"Dominos",
+    "foodtype": "Breakfast",
+    "price": 150
+  },
+  {
+    "id": 15,
+    "name": "idly",
+    "pic": "https://lh6.ggpht.com/-Gtl1ztX8j1s/UQipgfeYXZI/AAAAAAAANZU/hc4varGtPeY/s72-c/idli%252520rava%252520idli%252520plate%2525201_thumb%25255B1%25255D.jpg?imgmax=600",
+     "shop":"Dove Cafe",
+    "foodtype": "Breakfast",
+    "price": 100
+  },
+  {
+    "id": 16,
+    "name": "Dosa",
+    "pic": "https://cdn.dotpe.in/longtail/store-items/5710731/oJI8WEbP.jpeg",
+    "shop":"Welcome",
+    "foodtype":"Breakfast",
+    "price": 110
+  },
+  {
+    "id": 17,
+    "name": "Tiramisu",
+    "pic": "https://thebigmansworld.com/wp-content/uploads/2020/07/DSC_6840-tiramisu3.jpg",
+    "shop":"millatoo",
+    "foodtype": "Dessert",
+    "price": 500
+  },
+  {
+    "id": 18,
+    "name": "poori",
+    "pic": "https://5.imimg.com/data5/SELLER/Default/2022/9/UO/AS/QP/9635839/chole-poori-500x500.jpeg",
+    "shop":"Welcome",
+    "foodtype": "Breakfast",
+    "price": 70
+  },
+  {
+    "id": 19,
+    "name": "Nachos",
+    "pic": "https://www.theslowroasteditalian.com/wp-content/uploads/2021/11/Air-Fryer-Nachos-SQUARE.jpg",
+    "shop":"MC Donald's",
+    "foodtype": "Appetizer",
+    "price": 8.49
+  },
+  {
+    "id": 20,
+    "name": "Ice Cream",
+    "pic": "https://cdn.loveandlemons.com/wp-content/uploads/2023/06/homemade-ice-cream-500x500.jpg",
+    "shop":"Havmor",
+    "foodtype": "Dessert",
+    "price": 3.99
+  }
+]
